@@ -1,4 +1,4 @@
-# Sabre Rate Competitiveness Project: Harnessing Sabre's Loding Data to Enable Informed Decision-making
+# Analyzing Rate Competitiveness Project: Harnessing Loding Data to Enable Informed Decision-making
 
 **Hi there! Here is my project contribution in a nutshell:**
 
