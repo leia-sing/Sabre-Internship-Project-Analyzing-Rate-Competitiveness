@@ -1,3 +1,5 @@
+-- NOTE: for confidentiality reasons, all field names, table names, and hotel names have been changed/generalized
+
 -- searches view: for each ABC search, the number of results with a ABC result, and whether or not a ABC was returned/booked
 DECLARE from_dt DATE DEFAULT "2022-01-01";
 DECLARE to_dt DATE DEFAULT "2023-12-31";
