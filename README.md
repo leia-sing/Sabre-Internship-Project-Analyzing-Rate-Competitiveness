@@ -12,20 +12,13 @@ In this project during my internship at Sabre Corporation, a global travel techn
 
 **If you'd like to dig deeper into my work on this project, feel free to navigate by section:**
 
-- [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
+- [Project Background](#project-background)
 - [Approach](#approach)
 - [Gathering Data](#gathering-data)
 - [Findings](#findings)
 - [Challenges](#challenges)
 - [Learnings](#learnings)
-
-## Project Background
-For several years, a key client had expressed great interest in Sabre's lodging data to evaluate the effectiveness of their negotiated rate program and ultimately identify potential cost savings opportunities. 
-
-Note: To maintain confiendentiality, I'll use "Company G" as a generic name for this corporate client and ""GGG"" as a generic name for the client's negotiated rate code, neither of which are indicative of any specific company. 
-
-Leadership from Sabre's client, Company G, wanted to investigate whether its corporate travellers were possibly booking outside of Company G's negotiated offerings with certain hotel brands because public, TMC-sourced, or other rates may be lower cost or more available. In short, Company G wanted know what corporate travelers are shopping, seeing in responses, and what they are booking. 
 
 ## Executive Summary
 **Findings:** 
@@ -35,6 +28,13 @@ Leadership from Sabre's client, Company G, wanted to investigate whether its cor
 **Recommendations:** 
 - Consider offering this analysis as a "Data-as-a-Service" and speak with finance and pricing teams on opportunity.
 - Applying this rate competitiveness analysis approach to Company G for a longer timeline, such as 6-12 months can give client a more complete picture on their rate competitiveness program. 
+
+## Project Background
+For several years, a key client had expressed great interest in Sabre's lodging data to evaluate the effectiveness of their negotiated rate program and ultimately identify potential cost savings opportunities. 
+
+Note: To maintain confiendentiality, I'll use "Company G" as a generic name for this corporate client and ""GGG"" as a generic name for the client's negotiated rate code, neither of which are indicative of any specific company. 
+
+Leadership from Sabre's client, Company G, wanted to investigate whether its corporate travellers were possibly booking outside of Company G's negotiated offerings with certain hotel brands because public, TMC-sourced, or other rates may be lower cost or more available. In short, Company G wanted know what corporate travelers are shopping, seeing in responses, and what they are booking. 
 
 ## Approach
 In the analysis, I wanted to answered the question: When Company G travelers are making bookings not using their corporate rate code, is it because of:
