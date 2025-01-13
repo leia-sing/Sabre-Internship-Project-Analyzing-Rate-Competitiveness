@@ -38,7 +38,7 @@ Leadership from Sabre's client, Company G, wanted to investigate whether its cor
 
 ## Approach
 In the analysis, I wanted to answered the question: When Company G travelers are making bookings not using their corporate rate code, is it because of:
-- availability (Company G are not returned from their search results for whatever reason)
+- Availability (Company G are not returned from their search results for whatever reason)
 - Cost (other rates are lower cost)
 - Or both?
 
