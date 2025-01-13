@@ -6,7 +6,7 @@ In this project during my internship at Sabre Corporation, a global travel techn
 
 **If you're short on time, feel free to directly view examples of my skills in this project:**
 
-- SQL - several [queries](SQL-prep.sql) I developed using aggregations, joins, and case statements to transform data for visualization.
+- SQL - sample [queries](SQL-prep.sql) I developed using aggregations, joins, and case statements to transform data for visualization.
 - Python - [visualizations](#gathering-data) I created using the Python libraries pandas, matplotlib, and seaborn.
 - Stakeholder Communication - sample of how I would distill insights to an [executive](#executive-summary) audience vs. explaining the process to a [technical](#approach) audience.
 
