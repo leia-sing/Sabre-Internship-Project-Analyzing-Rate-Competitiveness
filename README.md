@@ -27,10 +27,10 @@ In this project during my internship at Sabre Corporation, a global travel techn
 
 **Recommendations:** 
 - Consider offering this analysis as a "Data-as-a-Service" and speak with finance and pricing teams on opportunity.
-- Applying this rate competitiveness analysis approach to Company G for a longer timeline, such as 6-12 months can give client a more complete picture on their rate competitiveness program. 
+- Consider applying this rate competitiveness analysis approach to Company G for a longer timeline, such as 6-12 months can give client a more complete picture on their rate competitiveness program. 
 
 ## Project Background
-For several years, a key client had expressed great interest in Sabre's lodging data to evaluate the effectiveness of their negotiated rate program and ultimately identify potential cost savings opportunities. 
+For several years, key clients have expressed great interest in Sabre's lodging data to evaluate the effectiveness of their negotiated rate program and ultimately identify potential cost savings opportunities. 
 
 Note: To maintain confiendentiality, I'll use "Company G" as a generic name for this corporate client and ""GGG"" as a generic name for the client's negotiated rate code, neither of which are indicative of any specific company. 
 
